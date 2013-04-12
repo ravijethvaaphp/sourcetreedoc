@@ -1,1 +1,2 @@
 the first line of file now see the result in source tree
+made changes in line 2 and now commiting it will commit then see result
