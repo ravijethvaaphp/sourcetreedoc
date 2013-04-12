@@ -1,2 +1,3 @@
 the first line of file now see the result in source tree
 made changes in line 2 and now commiting it will commit then see result
+"the line 3 will commit only stay in experiment branch so it will not affect the main code in sense so the quated text will commit and only displays in branch experiment so the purpose of this facility is that when more than one  persons working on same repo and need to test code it will commit  on their branch when  they are ready and approved code then it will merge to origin branch so lets see further video so you can see result"
